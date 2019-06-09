@@ -8,6 +8,8 @@ public class teauysgdj {
         System.out.println("asas");
         System.out.println("asas");
         System.out.println("asas");
+        System.out.println("asas");
+        System.out.println("asas");
         System.out.println();
     }
 }
